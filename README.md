@@ -62,4 +62,4 @@ python scraping.py
 * [Python with BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 ## Conclusion
-Data like book title, book author, book cover url, Amazon url and apple books url is scraped ```page by page``` from the ```base_url``` as per user's choice and stored in well-formatted manner in CSV files with appropriate file names. 
+Data like book title, book author, book cover url, Amazon url and apple books url is scraped ```page by page``` from the ```base_url``` as per user's choice and stored in ```well-formatted manner in CSV files``` with appropriate file names. 
