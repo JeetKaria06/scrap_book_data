@@ -19,7 +19,7 @@ python scraping.py
 [POST] Books in each page:  24
 [GET] Enter Start Page:
 ```
-> Enter the start page range and end page range.
+> Enter the page range (i.e. start page number and end page number).
 
 ```
 [POST] Fetching Info...
